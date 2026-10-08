@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">speak&amp;hear</string>
+    <string name="manabjyoti">Manabjyoti</string>
+    <string name="logoo">LOGO</string>
+    <string name="from">from</string>
+    <string name="touch_on_the_microphone_to_speak">Touch on the microphone to speak</string>
+    <string name="touch_on_the_speaker_to_listen">Touch on the speaker to listen</string>
+    <string name="i_have_read_and_accept_the_privacy_policies_term_and_conditions">I have read and accept the privacy policies, term and conditions</string>
+    <string name="click_here_to_read_the_privacy_policiies_terms_and_and_condtions">Click here to read the privacy policiies, terms and and condtions</string>
+    <string name="i_have_agreed_to_the_privacy_policies_terms_and_condtions_by_installing_this_application">I have agreed to all the privacy policies,terms and condtions by installing this application</string>
+    <string name="help_center">Help center</string>
+    <string name="help">Help</string>
+    <string name="contact_us">Contact us</string>
+    <string name="app_information">App information</string>
+    <string name="to_speak_hear">To: speak-hear</string>
+    <string name="write_something_to_us_regarding_the_app">write something to us regarding the app</string>
+    <string name="send">click here to visit website</string>
+    <string name="share_the_app">Share the app</string>
+    <string name="for_queries_contact_us_using_contact_form_on_our_website">For queries contact us using "Contact Form"  on our website:</string>
+    <string name="www_speak_hear_mystrikingly_com">www.speak-hear.mystrikingly.com</string>
+    <string name="_2022_speak_hear_mystrikingly_com">© 2022 speak-hear.mystrikingly.com</string>
+    <string name="listen_what_you_have_spoken">listen what you have spoken</string>
+</resources>
